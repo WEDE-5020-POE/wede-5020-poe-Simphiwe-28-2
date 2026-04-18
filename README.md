@@ -3,7 +3,7 @@ Your project's title
 
 ## Student Information
 **Student number:** Your student number <br>
-**Student Name:** Your full name
+**Student Name:** simphiwe maninjwa
 
 ## Project Overview
 
