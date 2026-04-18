@@ -4,13 +4,14 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
+
         
 
     
         {
             "type": "chrome",
             "request": "launch",
-            "name": "Open home.html",
+            "name": "open home.html",
             "file": "c:\\Users\\nokuk\\Documents\\GitHub\\wede-5020-poe-Simphiwe-28-2\\enquiry.html"
         }
     ]
