@@ -15,7 +15,7 @@ Pull this from your project proposal.
 
 ## Timeline and Milestones
 
-Pull this from your project proposal.
+Pull this from your project propo
 
 ## Sitemap
 
