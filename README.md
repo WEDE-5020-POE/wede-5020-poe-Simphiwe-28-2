@@ -55,8 +55,7 @@ week4
 
 
 ## Sitemap
-
- [website sitemap](SITE MAP PART 1 - Copy - Copy.png)
+ ![site map](c:\Users\nokuk\Downloads\SITE MAP PART 1 - Copy - Copy.png)
 
 ## References
 
