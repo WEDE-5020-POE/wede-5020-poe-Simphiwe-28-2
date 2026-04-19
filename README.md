@@ -1,5 +1,5 @@
 # Project Title
-Your project's title
+mzizi catering
 
 ## Student Information
 **Student number:** ST10481041<br>
@@ -7,11 +7,13 @@ Your project's title
 
 ## Project Overview
 
-Pull this from your project proposal.
+ Our vision is to settle the standards for luxury and culinary innovation through traditional meals, where our trust from our clients is met. 
+
+our mission as mzizi catering we want to serve our potential clients quality food and taste.for clients to experience affordable, comfort and made from scratch with love traditional food 
 
 ## Website Goals and Objectives
 
-Pull this from your project proposal.
+To establish a professional digital footprint for a home-based catering business to increase customer engagement and streamline bookings.
 
 ## Timeline and Milestones
 
