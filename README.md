@@ -2,7 +2,7 @@
 Your project's title
 
 ## Student Information
-**Student number:** Your student number <br>
+**Student number:** ST10481041<br>
 **Student Name:** simphiwe maninjwa
 
 ## Project Overview
