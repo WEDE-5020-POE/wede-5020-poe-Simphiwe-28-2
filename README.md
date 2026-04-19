@@ -55,8 +55,8 @@ week4
 
 
 ## Sitemap
- ![site map](c:\Users\nokuk\Downloads\SITE MAP PART 1 - Copy - Copy.png)
-
+ ![site map](https://advtechonline-my.sharepoint.com/:u:/r/personal/st10481041_rcconnect_edu_za/_layouts/15/Doc.aspx?sourcedoc=%7Bf688562b-2451-4c9c-b6ec-7f544ec64813%7D&action=edit&or=PrevEdit)
+ 
 ## References
 
 Ensure that all sources used in your assignment are cited and referenced using the Harvard referencing style.
