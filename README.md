@@ -56,7 +56,7 @@ week4
 
 ## Sitemap
 
-![Website Sitemap](img/mysitemap.png) <br> (The one here is only an example, include your own site map)
+![Website Sitemap](c:\Users\nokuk\Downloads\SITE MAP PART 1 - Copy - Copy.png) <br> (The one here is only an example, include your own site map)
 
 ## References
 
