@@ -55,7 +55,7 @@ week4
 
 
 ## Sitemap
-  ![Alt text for the image](![alt text](<Screenshot 2026-04-19 181222.png>))
+  (![alt text](<Screenshot 2026-04-19 181222.png>))
  
 ## References
 
