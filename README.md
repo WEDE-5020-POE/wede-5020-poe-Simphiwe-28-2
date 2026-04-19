@@ -55,10 +55,12 @@ week4
 
 
 ## Sitemap
- *[site map]( c:\Users\nokuk\Downloads\SITE MAP PART 1 - Copy - Copy.png)
+  ![Alt text for the image](![alt text](<Screenshot 2026-04-19 181222.png>))
  
 ## References
 
 Ensure that all sources used in your assignment are cited and referenced using the Harvard referencing style.
+
+
 
 
