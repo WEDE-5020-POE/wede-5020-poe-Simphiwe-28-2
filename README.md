@@ -56,8 +56,10 @@ week4
 
 ## Sitemap
 
-![Website Sitemap](c:\Users\nokuk\Downloads\SITE MAP PART 1 - Copy - Copy.png) <br> (The one here is only an example, include your own site map)
+ [website sitemap](SITE MAP PART 1 - Copy - Copy.png)
 
 ## References
 
 Ensure that all sources used in your assignment are cited and referenced using the Harvard referencing style.
+
+
