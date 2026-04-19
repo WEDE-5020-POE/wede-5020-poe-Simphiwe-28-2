@@ -55,7 +55,7 @@ week4
 
 
 ## Sitemap
- ![site map](https://advtechonline-my.sharepoint.com/:u:/r/personal/st10481041_rcconnect_edu_za/_layouts/15/Doc.aspx?sourcedoc=%7Bf688562b-2451-4c9c-b6ec-7f544ec64813%7D&action=edit&or=PrevEdit)
+ ![site map]( c:\Users\nokuk\Downloads\SITE MAP PART 1 - Copy - Copy.png)
  
 ## References
 
