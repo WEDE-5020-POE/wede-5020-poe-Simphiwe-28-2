@@ -1,5 +1,13 @@
-h1{
-  font-size: 80px;
-  text-align: center;
-} 
+ body{
+    background-color: rgb(217,245,236);
+}
+div{
+    width: 150px;
+    height: 150px;
+    background-color:rgb(222,184,135);
+    border: solid medium black;
+    border-radius: 35px;
+    padding: 25px;
+        margin: 15px;
+}
  
