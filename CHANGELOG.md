@@ -1,24 +1,11 @@
 # CHANGELOG
 
-All notable changes to this project will be documented in this file.
+ in part 2 i made major changes which took me weeks 
+ i edited my html in order for my css to work 
+ my navigation bar was not really responding which resulted in me to edit my html file 
+ what i added is the gallery file to enhance the website or showcase the menu
+ i added another link to enhance the design
+ 
 
-This project follows Semantic Versioning.
 
-## [1.0.0] 
-### Added
-- xyz
-
-### Changed
-- xyz
-
-### Fixed
-- xyz
-
-## Semantic Versioning
-
-Format: MAJOR.MINOR.PATCH  
-Example: 2.1.3
-
-- MAJOR → Breaking changes (1.0.0 → 2.0.0)  
-- MINOR → New features (1.0.0 → 1.1.0)  
-- PATCH → Bug fixes / small improvements (1.0.0 → 1.0.1)
+ 
