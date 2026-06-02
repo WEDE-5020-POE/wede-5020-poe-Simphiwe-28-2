@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mzizi Catering | Event Enquiry & Quote Request</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+
+<header>
+    <nav>
+        <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap; border-bottom: 2px solid #8B4513; padding-bottom: 15px;">
+            <img src="images/logo/logo.png" alt="Mzizi Catering Logo" width="120" height="90" style="border-radius: 12px;">
+            <div>
+                <strong style="font-size: 28px; font-family: serif;">MZIZI CATERING</strong><br>
+                <em style="font-size: 18px;">bringing you back to our roots</em>
+            </div>
+        </div>
+             <ul class="nav-menu">
+              <li><a href="index.html"><i class="fas fa-home"></i> Home</a></li>
+            <li><a href="menu.html"><i class="fas fa-utensils"></i> Menu</a></li>
+             <li><a href="order.html"><i class="fas fa-shopping-cart"></i> Order Online</a></li>
+            <li><a href="services.html"><i class="fas fa-concierge-bell"></i> Services</a></li>
+            <li><a href="about.html"><i class="fas fa-users"></i> About Us</a></li>
+            <li><a href="gallery.html"><i class="fas fa-camera"></i> Gallery</a></li>
+            <li><a href="contact.html"><i class="fas fa-envelope"></i> Contact</a></li>
+             <li><a href="enquiry.html"><i class="fas fa-question-circle"></i> Enquiry</a></li>
+         </ul>
+    </nav>
+</header>
+
+<main>
+    <h1 align="center" style="color: #8B4513;"><i class="fas fa-file-signature"></i> Start Your Mzizi Catering Experience</h1>
+    <p align="center">Please share your event vision below. We will personally review your request and reach out within <strong>24 hours</strong>.</p>
+
+    <div style="display: flex; flex-wrap: wrap; gap: 30px; margin: 30px;">
+        <div style="flex: 2; background: #fef5ea; padding: 25px; border-radius: 20px;">
+            <h3><i class="fas fa-clipboard-list"></i> Request a Custom Quote</h3>
+            <form id="enquiryForm">
+                <input type="text" placeholder="Full Name" required style="width: 100%; padding: 10px; margin: 8px 0; border-radius: 8px;"><br>
+                <input type="email" placeholder="Email Address" required style="width: 100%; padding: 10px; margin: 8px 0; border-radius: 8px;"><br>
+                <input type="tel" placeholder="Phone Number" required style="width: 100%; padding: 10px; margin: 8px 0; border-radius: 8px;"><br>
+                <input type="date" style="width: 100%; padding: 10px; margin: 8px 0; border-radius: 8px;"><br>
+                <select style="width: 100%; padding: 10px; margin: 8px 0; border-radius: 8px;">
+                    <option>Select Service Type</option>
+                    <option>Wedding</option>
+                    <option>Birthday Party</option>
+                    <option>Funeral / Memorial</option>
+                    <option>Corporate Catering</option>
+                    <option>Heritage Fusion Event</option>
+                    <option>Private Dinner</option>
+                </select><br>
+                <input type="text" placeholder="Estimated Guest Count" style="width: 100%; padding: 10px; margin: 8px 0; border-radius: 8px;"><br>
+                <input type="text" placeholder="Event Venue" style="width: 100%; padding: 10px; margin: 8px 0; border-radius: 8px;"><br>
+                <input type="text" placeholder="Budget Range (optional)" style="width: 100%; padding: 10px; margin: 8px 0; border-radius: 8px;"><br>
+                <textarea placeholder="Tell us about your event (dietary requirements, special requests, menu preferences)" rows="5" style="width: 100%; padding: 10px; margin: 8px 0; border-radius: 8px;"></textarea><br>
+                <button type="submit" style="background: #8b4513; color: white; padding: 12px 30px; border: none; border-radius: 8px;">Submit Inquiry</button>
+            </form>
+        </div>
+
+        <div style="flex: 1; background: #e7d6c0; padding: 25px; border-radius: 20px;">
+            <h3><i class="fas fa-star"></i> Why Mzizi Catering?</h3>
+            <ul>
+                <li>Traditional food experts with generational recipes</li>
+                <li>Professional, high-touch service</li>
+                <li>Fresh, local & soulful ingredients</li>
+                <li>100% customizable menus</li>
+                <li>Free tasting for events over 50 guests</li>
+                <li>Transparent pricing, no hidden fees</li>
+            </ul>
+            <h3><i class="fas fa-comment-dots"></i> What Our Clients Say</h3>
+            <p><em>"Mzizi went above and beyond for our company event. The food was outstanding!"</em></p>
+            <p><strong>— Sarah J.</strong> <i class="fas fa-star" style="color: gold;"></i><i class="fas fa-star" style="color: gold;"></i><i class="fas fa-star" style="color: gold;"></i><i class="fas fa-star" style="color: gold;"></i><i class="fas fa-star" style="color: gold;"></i></p>
+        </div>
+    </div>
+</main>
+
+<footer style="background: #1a0f08; color: #f3e3cf; padding: 25px; text-align: center;">
+    <p>© 2026 Mzizi Catering. All Rights Reserved.</p>
+    <p><i class="fas fa-envelope"></i> contact@mzizicatering.co.za | <i class="fas fa-phone-alt"></i> 076 841 1046</p>
+    <a href="#" style="color: #ffcd94; margin:0 10px;"><i class="fab fa-instagram"></i></a>
+    <a href="#" style="color: #ffcd94; margin:0 10px;"><i class="fab fa-facebook"></i></a>
+    <a href="#" style="color: #ffcd94; margin:0 10px;"><i class="fab fa-whatsapp"></i></a>
+</footer>
+
+<script>
+    document.getElementById('enquiryForm')?.addEventListener('submit', function(e) {
+        e.preventDefault();
+        alert('Thank you for your enquiry! We will contact you within 24 hours.');
+        this.reset();
+    });
+</script>
+<script src="js/script.js"></script>
+</body>
+</html>
